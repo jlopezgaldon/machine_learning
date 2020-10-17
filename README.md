@@ -4,8 +4,11 @@
 Dentro de cada labX (práctica), tendréis la siguiente estructura:
 
 ├── README.md <- The top-level README for developers.
+
 │
+
 ├── data
+
 │ ├── 01_raw <- Immutable input data
 │ ├── 02_intermediate<- Cleaned version of raw
 │ ├── 03_processed <- Data used to develop models
