@@ -1,11 +1,11 @@
 # machine_learning
 ## Master Data Science CUNEF
 
-- Dentro de cada labX (práctica), tendréis la siguiente estructura:
+Dentro de cada labX (práctica), tendréis la siguiente estructura:
 
-- ####README.md#### <- The top-level README for developers.
+- _README.md_ <- The top-level README for developers.
 
-- data
+- _data_
   - 01_raw <- Immutable input data
   - 02_intermediate<- Cleaned version of raw
   - 03_processed <- Data used to develop models
@@ -13,16 +13,16 @@
   - 05_model_output<- model output
   - 06_reporting <- Reports and input to frontend
 
-- docs <- Space for Sphinx documentation
+- _docs_ <- Space for Sphinx documentation
 
-- notebooks <- Jupyter notebooks. Los notebooks se nombran como siguen (tomadlo como ejemplos, lo importante son los número de prefijo para saber en qué orden ejecutarlo): 00_Data_Processing, 01_EDA_Analysis...
+- _notebooks_ <- Jupyter notebooks. Los notebooks se nombran como siguen (tomadlo como ejemplos, lo importante son los número de prefijo para saber en qué orden ejecutarlo): 00_Data_Processing, 01_EDA_Analysis...
 
-- references <- Data dictionaries, manuals, etc.
+- _references_ <- Data dictionaries, manuals, etc.
 
-- results <- Final analysis docs.
+- _results_ <- Final analysis docs.
 
-- requirements.txt <- The requirements file for reproducing the analysis environment.
+- _requirements.txt_ <- The requirements file for reproducing the analysis environment.
 
-- .gitignore <- Avoids uploading data, credentials, outputs, system files etc
+- _.gitignore_ <- Avoids uploading data, credentials, outputs, system files etc
 
-- src <- Source code for use in this project. Aquí solo los py si los hubiera, nunca notebooks
+- _src_ <- Source code for use in this project. Aquí solo los py si los hubiera, nunca notebooks
