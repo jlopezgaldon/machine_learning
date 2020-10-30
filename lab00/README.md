@@ -22,6 +22,8 @@ Hemos analizado las correlaciones de las variables, estudiado el pib per cápita
 	- 01_raw <- Immutable input data
 	- 02_intermediate <- Cleaned version of raw
 
+- enviroments <- enviroments used in the jupyter notebooks.
+
 - html <- html of the jupyter notebooks.
 
 - notebooks <- Jupyter notebooks.
